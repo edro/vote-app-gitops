@@ -6,3 +6,6 @@ images:
 - digest: sha256:05ad613ede00ab896e96671a436c6e9793ff548a35ceb0f6824f4f8826944432
   name: example-registry-quay-openshift-storage.apps.openshift.kreiss.lv/edgars.roze/vote-api
   newName: example-registry-quay-openshift-storage.apps.openshift.kreiss.lv/edgars.roze/vote-api
+- digest: sha256:426659fe7225a5a77c2467a7ca78a392e0341ea4aacda43fbbaa1a4c9a1c14e0
+  name: example-registry-quay-openshift-storage.apps.openshift.kreiss.lv/edgars.roze/vote-ui
+  newName: example-registry-quay-openshift-storage.apps.openshift.kreiss.lv/edgars.roze/vote-ui
