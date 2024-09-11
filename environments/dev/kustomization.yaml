@@ -2,3 +2,7 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 resources:
 - ../../k8s/
+images:
+- digest: sha256:06b07b9f063bb6e29e135235c36ebb81952ddbf11c5d244e74a7287e6bbb22d7
+  name: example-registry-quay-openshift-storage.apps.openshift.kreiss.lv/edgars.roze/vote-api
+  newName: example-registry-quay-openshift-storage.apps.openshift.kreiss.lv/edgars.roze/vote-api
