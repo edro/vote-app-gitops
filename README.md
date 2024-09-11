@@ -612,3 +612,4 @@ Change **vote-ui** replicas to 2 from OpenShift Web Console, Argo CD will automa
 
 Well done!
 
+Have a nice day!
