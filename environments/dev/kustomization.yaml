@@ -9,3 +9,6 @@ images:
 - digest: sha256:426659fe7225a5a77c2467a7ca78a392e0341ea4aacda43fbbaa1a4c9a1c14e0
   name: example-registry-quay-openshift-storage.apps.openshift.kreiss.lv/edgars.roze/vote-ui
   newName: example-registry-quay-openshift-storage.apps.openshift.kreiss.lv/edgars.roze/vote-ui
+- digest: sha256:b3d5328cf6c3c6a46e7af1abd40900b3a90002806bf224bcf23c97fba6f080b8
+  name: quay.io/edgars.roze/vote-api
+  newName: quay.io/edgars.roze/vote-api
