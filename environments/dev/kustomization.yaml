@@ -12,3 +12,6 @@ images:
 - digest: sha256:b3d5328cf6c3c6a46e7af1abd40900b3a90002806bf224bcf23c97fba6f080b8
   name: quay.io/edgars.roze/vote-api
   newName: quay.io/edgars.roze/vote-api
+- digest: sha256:052a122274f8a902820534f479be9a2eac68dcbd868068cfeb40ff19951d4f75
+  name: quay.io/edgars.roze/vote-ui
+  newName: quay.io/edgars.roze/vote-ui
