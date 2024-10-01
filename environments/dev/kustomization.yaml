@@ -3,7 +3,7 @@ kind: Kustomization
 resources:
 - ../../k8s/
 images:
-- digest: sha256:ca9f54ee618b5fdda1c63104d61fd4b6ca1a752b266a3681b75f0b571869da54
+- digest: sha256:4e3f0c18f59882dfa261873c443b964a9839aa8dda7e1cdbec8bd398e35d7f14
   name: evolio-registry-quay-openshift-storage.apps.openshift.kreiss.lv/edgars_roze/vote-api
   newName: evolio-registry-quay-openshift-storage.apps.openshift.kreiss.lv/edgars_roze/vote-api
 - digest: sha256:de8b985dbfff883af62e8c1766d086d3436210f25365e2137f03b84c4aa0bd5a
