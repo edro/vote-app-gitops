@@ -6,7 +6,7 @@ images:
 - digest: sha256:4e3f0c18f59882dfa261873c443b964a9839aa8dda7e1cdbec8bd398e35d7f14
   name: evolio-registry-quay-openshift-storage.apps.openshift.kreiss.lv/edgars_roze/vote-api
   newName: evolio-registry-quay-openshift-storage.apps.openshift.kreiss.lv/edgars_roze/vote-api
-- digest: sha256:de8b985dbfff883af62e8c1766d086d3436210f25365e2137f03b84c4aa0bd5a
+- digest: sha256:b2da5ab32713f2adb8080396a5300ba00f9d74858abfe5da2eeaed851657be9c
   name: evolio-registry-quay-openshift-storage.apps.openshift.kreiss.lv/edgars_roze/vote-ui
   newName: evolio-registry-quay-openshift-storage.apps.openshift.kreiss.lv/edgars_roze/vote-ui
 - digest: sha256:29d19fecfa661c75596654d162851d2344a5f8374e47a625ddc19d078d2f6ee7
